@@ -1,0 +1,25 @@
+p {
+    background-color: rgb(243, 170, 182);
+    color: black;
+    text-align: left;
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+}
+
+#big-blue {
+    background-color: #ffffff;
+    color: rgb(0, 0, 255);
+    text-align: left;
+    font-family: "Times New Roman", serif;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
